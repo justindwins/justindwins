@@ -6,6 +6,8 @@ I'm actually interested in cybersecurity, beer and cycling.
 I’m currently learning everything related to cybersecurity. I know I should study more about cloud security. And I still don't like programming.
 I’m looking to collaborate on cybersecurity projects.
 
+But first... trying some Android hacking and finding m0r€ fund$.
+
 📫 You know how to reach me. If not, maybe I'm just not social.
 
 <!---
